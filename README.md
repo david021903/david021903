@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @david021903
-- 👀 I’m interested in Machine learning
+- 👀 I’m interested in Machine learning and Deep learning
 - 🌱 I’m currently learning Django, python
 - 💞️ I’m looking to collaborate on Machine learning
 - 📫 How to reach me Juandavidg88@hotmail.es
