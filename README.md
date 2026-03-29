@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @david021903
-- 👀 I’m interested in Machine learning and Deep learning
-- 🌱 I’m currently learning Django, Javascript
-- 💞️ I’m looking to collaborate on Machine learning
-- 📫 How to reach me Juandavidg88@hotmail.es
+- 👋 Hi, I’m @beansk1
+- 👀 I’m interested in Machine learning, Deep learning, blockchain and web3
+- 💞️ I’m looking to collaborate on Machine learning and web3 projects
+- 📫 How to reach me contact@traderclaw.ai
 
 I'll be posting here more repositories about interesting projects ;)
 <!---
