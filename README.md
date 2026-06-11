@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @beansk1
+- 👋 Hi, I’m @david021903
 - 👀 I’m interested in Machine learning, Deep learning, blockchain and web3
 - 💞️ I’m looking to collaborate on Machine learning and web3 projects
-- 📫 How to reach me contact@traderclaw.ai
+- 📫 How to reach me juandavidg88@hotmail.es
 
 I'll be posting here more repositories about interesting projects ;)
 <!---
